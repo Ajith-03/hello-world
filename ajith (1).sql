@@ -42,10 +42,7 @@ CREATE TABLE `users3` (
 --
 
 INSERT INTO `users3` (`id`, `first_name`, `last_name`, `email`, `image`, `password`) VALUES
-(27, 'codes', 'igniter', 'code@gmail.com', '', '202cb962ac59075b964b07152d234b70'),
-(29, 'ashok', 'kumar', 'ashok@gmail.com', '1579870961_Hydrangeas.jpg', '202cb962ac59075b964b07152d234b70'),
-(31, 'dfryhg', 'gvfhy', '1@gmail.com', '1579871513_Penguins.jpg', '202cb962ac59075b964b07152d234b70'),
-(32, 'aravind', 'S', 'm@gmail.com', '1579873705_Desert.jpg', '202cb962ac59075b964b07152d234b70');
+(1, 'Ajith', 'kumar', 'ajithkumar5197@gmail.com', '', '202cb962ac59075b964b07152d234b70');
 
 --
 -- Indexes for dumped tables
